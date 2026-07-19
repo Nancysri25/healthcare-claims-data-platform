@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==2.1.1
+psycopg2-binary==2.9.10
+sqlalchemy==2.0.36
+apache-airflow==2.10.2
+boto3==1.35.0
+python-dotenv==1.0.1
+great-expectations==1.2.0
+faker==30.3.0
+pytest==8.3.3
