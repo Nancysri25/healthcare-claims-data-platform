@@ -1,0 +1,251 @@
+icd10_code,diagnosis_description,diagnosis_category,chronic_condition
+N39.0_1,Urinary Tract Infection,Urinary,False
+K21.9_2,GERD,GERD,False
+J45.909_3,Asthma,Asthma,False
+J06.9_4,Upper Respiratory Infection,Upper,False
+F41.1_5,Anxiety Disorder,Anxiety,False
+I10_6,Hypertension,Hypertension,True
+J06.9_7,Upper Respiratory Infection,Upper,True
+E11.9_8,Type 2 Diabetes,Type,False
+F41.1_9,Anxiety Disorder,Anxiety,False
+J06.9_10,Upper Respiratory Infection,Upper,False
+I10_11,Hypertension,Hypertension,False
+J06.9_12,Upper Respiratory Infection,Upper,True
+J06.9_13,Upper Respiratory Infection,Upper,False
+J06.9_14,Upper Respiratory Infection,Upper,True
+J06.9_15,Upper Respiratory Infection,Upper,True
+E11.9_16,Type 2 Diabetes,Type,False
+M54.5_17,Low Back Pain,Low,True
+K21.9_18,GERD,GERD,False
+F41.1_19,Anxiety Disorder,Anxiety,True
+R51_20,Headache,Headache,False
+E78.5_21,Hyperlipidemia,Hyperlipidemia,False
+J45.909_22,Asthma,Asthma,True
+M54.5_23,Low Back Pain,Low,True
+M54.5_24,Low Back Pain,Low,False
+F41.1_25,Anxiety Disorder,Anxiety,False
+J06.9_26,Upper Respiratory Infection,Upper,True
+E11.9_27,Type 2 Diabetes,Type,False
+J45.909_28,Asthma,Asthma,False
+R51_29,Headache,Headache,False
+J45.909_30,Asthma,Asthma,False
+K21.9_31,GERD,GERD,True
+K21.9_32,GERD,GERD,True
+N39.0_33,Urinary Tract Infection,Urinary,True
+I10_34,Hypertension,Hypertension,False
+F41.1_35,Anxiety Disorder,Anxiety,True
+E78.5_36,Hyperlipidemia,Hyperlipidemia,True
+R51_37,Headache,Headache,False
+N39.0_38,Urinary Tract Infection,Urinary,False
+J06.9_39,Upper Respiratory Infection,Upper,True
+R51_40,Headache,Headache,False
+M54.5_41,Low Back Pain,Low,False
+J06.9_42,Upper Respiratory Infection,Upper,True
+N39.0_43,Urinary Tract Infection,Urinary,False
+N39.0_44,Urinary Tract Infection,Urinary,True
+I10_45,Hypertension,Hypertension,True
+J06.9_46,Upper Respiratory Infection,Upper,True
+F41.1_47,Anxiety Disorder,Anxiety,True
+K21.9_48,GERD,GERD,False
+E11.9_49,Type 2 Diabetes,Type,False
+R51_50,Headache,Headache,True
+R51_51,Headache,Headache,True
+E78.5_52,Hyperlipidemia,Hyperlipidemia,False
+J45.909_53,Asthma,Asthma,True
+M54.5_54,Low Back Pain,Low,False
+E78.5_55,Hyperlipidemia,Hyperlipidemia,True
+J45.909_56,Asthma,Asthma,True
+E11.9_57,Type 2 Diabetes,Type,False
+N39.0_58,Urinary Tract Infection,Urinary,True
+N39.0_59,Urinary Tract Infection,Urinary,False
+F41.1_60,Anxiety Disorder,Anxiety,False
+R51_61,Headache,Headache,False
+N39.0_62,Urinary Tract Infection,Urinary,True
+E11.9_63,Type 2 Diabetes,Type,False
+M54.5_64,Low Back Pain,Low,False
+E11.9_65,Type 2 Diabetes,Type,True
+I10_66,Hypertension,Hypertension,True
+E11.9_67,Type 2 Diabetes,Type,True
+J06.9_68,Upper Respiratory Infection,Upper,True
+J06.9_69,Upper Respiratory Infection,Upper,False
+E78.5_70,Hyperlipidemia,Hyperlipidemia,True
+E78.5_71,Hyperlipidemia,Hyperlipidemia,True
+R51_72,Headache,Headache,True
+J45.909_73,Asthma,Asthma,False
+R51_74,Headache,Headache,False
+N39.0_75,Urinary Tract Infection,Urinary,True
+J45.909_76,Asthma,Asthma,False
+J06.9_77,Upper Respiratory Infection,Upper,False
+I10_78,Hypertension,Hypertension,False
+I10_79,Hypertension,Hypertension,True
+E11.9_80,Type 2 Diabetes,Type,True
+J06.9_81,Upper Respiratory Infection,Upper,False
+R51_82,Headache,Headache,True
+N39.0_83,Urinary Tract Infection,Urinary,True
+I10_84,Hypertension,Hypertension,True
+F41.1_85,Anxiety Disorder,Anxiety,True
+F41.1_86,Anxiety Disorder,Anxiety,False
+N39.0_87,Urinary Tract Infection,Urinary,False
+J06.9_88,Upper Respiratory Infection,Upper,True
+K21.9_89,GERD,GERD,False
+J45.909_90,Asthma,Asthma,True
+J45.909_91,Asthma,Asthma,True
+E78.5_92,Hyperlipidemia,Hyperlipidemia,True
+M54.5_93,Low Back Pain,Low,True
+K21.9_94,GERD,GERD,False
+R51_95,Headache,Headache,False
+J06.9_96,Upper Respiratory Infection,Upper,True
+F41.1_97,Anxiety Disorder,Anxiety,True
+M54.5_98,Low Back Pain,Low,False
+F41.1_99,Anxiety Disorder,Anxiety,False
+R51_100,Headache,Headache,False
+I10_101,Hypertension,Hypertension,True
+I10_102,Hypertension,Hypertension,True
+M54.5_103,Low Back Pain,Low,True
+J06.9_104,Upper Respiratory Infection,Upper,False
+E11.9_105,Type 2 Diabetes,Type,True
+R51_106,Headache,Headache,True
+R51_107,Headache,Headache,True
+E78.5_108,Hyperlipidemia,Hyperlipidemia,False
+K21.9_109,GERD,GERD,True
+N39.0_110,Urinary Tract Infection,Urinary,False
+N39.0_111,Urinary Tract Infection,Urinary,False
+J45.909_112,Asthma,Asthma,False
+K21.9_113,GERD,GERD,True
+F41.1_114,Anxiety Disorder,Anxiety,True
+F41.1_115,Anxiety Disorder,Anxiety,True
+I10_116,Hypertension,Hypertension,True
+E11.9_117,Type 2 Diabetes,Type,True
+E11.9_118,Type 2 Diabetes,Type,True
+N39.0_119,Urinary Tract Infection,Urinary,True
+F41.1_120,Anxiety Disorder,Anxiety,False
+K21.9_121,GERD,GERD,False
+R51_122,Headache,Headache,False
+N39.0_123,Urinary Tract Infection,Urinary,False
+E78.5_124,Hyperlipidemia,Hyperlipidemia,False
+E78.5_125,Hyperlipidemia,Hyperlipidemia,True
+J45.909_126,Asthma,Asthma,True
+M54.5_127,Low Back Pain,Low,False
+E11.9_128,Type 2 Diabetes,Type,True
+N39.0_129,Urinary Tract Infection,Urinary,False
+J06.9_130,Upper Respiratory Infection,Upper,True
+R51_131,Headache,Headache,False
+R51_132,Headache,Headache,False
+E78.5_133,Hyperlipidemia,Hyperlipidemia,False
+I10_134,Hypertension,Hypertension,False
+J06.9_135,Upper Respiratory Infection,Upper,True
+E78.5_136,Hyperlipidemia,Hyperlipidemia,False
+M54.5_137,Low Back Pain,Low,True
+F41.1_138,Anxiety Disorder,Anxiety,True
+E11.9_139,Type 2 Diabetes,Type,False
+E78.5_140,Hyperlipidemia,Hyperlipidemia,True
+K21.9_141,GERD,GERD,False
+I10_142,Hypertension,Hypertension,True
+F41.1_143,Anxiety Disorder,Anxiety,False
+K21.9_144,GERD,GERD,True
+K21.9_145,GERD,GERD,False
+E78.5_146,Hyperlipidemia,Hyperlipidemia,False
+I10_147,Hypertension,Hypertension,False
+I10_148,Hypertension,Hypertension,False
+F41.1_149,Anxiety Disorder,Anxiety,True
+I10_150,Hypertension,Hypertension,False
+J06.9_151,Upper Respiratory Infection,Upper,False
+E78.5_152,Hyperlipidemia,Hyperlipidemia,False
+M54.5_153,Low Back Pain,Low,True
+E78.5_154,Hyperlipidemia,Hyperlipidemia,True
+R51_155,Headache,Headache,True
+J06.9_156,Upper Respiratory Infection,Upper,True
+J45.909_157,Asthma,Asthma,True
+K21.9_158,GERD,GERD,False
+R51_159,Headache,Headache,False
+M54.5_160,Low Back Pain,Low,True
+E11.9_161,Type 2 Diabetes,Type,True
+E78.5_162,Hyperlipidemia,Hyperlipidemia,True
+E11.9_163,Type 2 Diabetes,Type,False
+F41.1_164,Anxiety Disorder,Anxiety,False
+E11.9_165,Type 2 Diabetes,Type,False
+E11.9_166,Type 2 Diabetes,Type,False
+M54.5_167,Low Back Pain,Low,True
+E78.5_168,Hyperlipidemia,Hyperlipidemia,True
+J45.909_169,Asthma,Asthma,True
+E78.5_170,Hyperlipidemia,Hyperlipidemia,True
+R51_171,Headache,Headache,True
+J06.9_172,Upper Respiratory Infection,Upper,True
+F41.1_173,Anxiety Disorder,Anxiety,False
+J45.909_174,Asthma,Asthma,True
+E78.5_175,Hyperlipidemia,Hyperlipidemia,False
+F41.1_176,Anxiety Disorder,Anxiety,False
+I10_177,Hypertension,Hypertension,True
+N39.0_178,Urinary Tract Infection,Urinary,False
+E78.5_179,Hyperlipidemia,Hyperlipidemia,False
+J45.909_180,Asthma,Asthma,True
+K21.9_181,GERD,GERD,False
+E78.5_182,Hyperlipidemia,Hyperlipidemia,False
+M54.5_183,Low Back Pain,Low,False
+R51_184,Headache,Headache,False
+N39.0_185,Urinary Tract Infection,Urinary,False
+J06.9_186,Upper Respiratory Infection,Upper,True
+I10_187,Hypertension,Hypertension,True
+N39.0_188,Urinary Tract Infection,Urinary,True
+I10_189,Hypertension,Hypertension,False
+J45.909_190,Asthma,Asthma,True
+R51_191,Headache,Headache,True
+N39.0_192,Urinary Tract Infection,Urinary,False
+F41.1_193,Anxiety Disorder,Anxiety,True
+E11.9_194,Type 2 Diabetes,Type,True
+J06.9_195,Upper Respiratory Infection,Upper,True
+K21.9_196,GERD,GERD,True
+R51_197,Headache,Headache,False
+R51_198,Headache,Headache,False
+J45.909_199,Asthma,Asthma,True
+K21.9_200,GERD,GERD,True
+J45.909_201,Asthma,Asthma,False
+J45.909_202,Asthma,Asthma,True
+I10_203,Hypertension,Hypertension,False
+K21.9_204,GERD,GERD,False
+F41.1_205,Anxiety Disorder,Anxiety,True
+I10_206,Hypertension,Hypertension,True
+J45.909_207,Asthma,Asthma,False
+N39.0_208,Urinary Tract Infection,Urinary,True
+J45.909_209,Asthma,Asthma,True
+R51_210,Headache,Headache,True
+F41.1_211,Anxiety Disorder,Anxiety,True
+J06.9_212,Upper Respiratory Infection,Upper,True
+F41.1_213,Anxiety Disorder,Anxiety,False
+F41.1_214,Anxiety Disorder,Anxiety,False
+R51_215,Headache,Headache,False
+M54.5_216,Low Back Pain,Low,False
+J06.9_217,Upper Respiratory Infection,Upper,True
+J45.909_218,Asthma,Asthma,False
+N39.0_219,Urinary Tract Infection,Urinary,True
+N39.0_220,Urinary Tract Infection,Urinary,True
+J45.909_221,Asthma,Asthma,False
+F41.1_222,Anxiety Disorder,Anxiety,True
+I10_223,Hypertension,Hypertension,False
+J06.9_224,Upper Respiratory Infection,Upper,False
+M54.5_225,Low Back Pain,Low,True
+K21.9_226,GERD,GERD,True
+J06.9_227,Upper Respiratory Infection,Upper,False
+E78.5_228,Hyperlipidemia,Hyperlipidemia,True
+R51_229,Headache,Headache,False
+I10_230,Hypertension,Hypertension,False
+E78.5_231,Hyperlipidemia,Hyperlipidemia,False
+N39.0_232,Urinary Tract Infection,Urinary,True
+K21.9_233,GERD,GERD,True
+I10_234,Hypertension,Hypertension,False
+E11.9_235,Type 2 Diabetes,Type,True
+E78.5_236,Hyperlipidemia,Hyperlipidemia,True
+I10_237,Hypertension,Hypertension,True
+K21.9_238,GERD,GERD,False
+N39.0_239,Urinary Tract Infection,Urinary,False
+J45.909_240,Asthma,Asthma,False
+K21.9_241,GERD,GERD,False
+E11.9_242,Type 2 Diabetes,Type,False
+I10_243,Hypertension,Hypertension,True
+R51_244,Headache,Headache,True
+R51_245,Headache,Headache,False
+E11.9_246,Type 2 Diabetes,Type,False
+I10_247,Hypertension,Hypertension,True
+M54.5_248,Low Back Pain,Low,False
+I10_249,Hypertension,Hypertension,False
+J45.909_250,Asthma,Asthma,False

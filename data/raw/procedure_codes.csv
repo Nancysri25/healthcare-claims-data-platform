@@ -1,0 +1,251 @@
+cpt_code,procedure_description,procedure_category,average_cost
+93000_1,ECG,ECG,599
+71046_2,Chest X-Ray,Chest,282
+70450_3,CT Scan,CT,2415
+99213_4,Office Visit,Office,2158
+70450_5,CT Scan,CT,279
+80053_6,Comprehensive Metabolic Panel,Comprehensive,51
+70450_7,CT Scan,CT,1739
+81001_8,Urinalysis,Urinalysis,1324
+85025_9,Complete Blood Count,Complete,111
+80053_10,Comprehensive Metabolic Panel,Comprehensive,850
+70450_11,CT Scan,CT,2196
+36415_12,Blood Collection,Blood,1451
+70450_13,CT Scan,CT,2296
+93000_14,ECG,ECG,1274
+36415_15,Blood Collection,Blood,628
+36415_16,Blood Collection,Blood,223
+85025_17,Complete Blood Count,Complete,1591
+85025_18,Complete Blood Count,Complete,619
+36415_19,Blood Collection,Blood,2149
+36415_20,Blood Collection,Blood,2908
+99213_21,Office Visit,Office,1881
+99213_22,Office Visit,Office,2487
+81001_23,Urinalysis,Urinalysis,228
+85025_24,Complete Blood Count,Complete,1493
+99213_25,Office Visit,Office,583
+80053_26,Comprehensive Metabolic Panel,Comprehensive,864
+81001_27,Urinalysis,Urinalysis,1542
+85025_28,Complete Blood Count,Complete,55
+85025_29,Complete Blood Count,Complete,1313
+70450_30,CT Scan,CT,1094
+85025_31,Complete Blood Count,Complete,594
+36415_32,Blood Collection,Blood,486
+36415_33,Blood Collection,Blood,2667
+85025_34,Complete Blood Count,Complete,335
+93000_35,ECG,ECG,1144
+93000_36,ECG,ECG,771
+70450_37,CT Scan,CT,505
+71046_38,Chest X-Ray,Chest,2558
+36415_39,Blood Collection,Blood,99
+70450_40,CT Scan,CT,2902
+70450_41,CT Scan,CT,2321
+36415_42,Blood Collection,Blood,226
+70450_43,CT Scan,CT,2919
+99213_44,Office Visit,Office,1380
+71046_45,Chest X-Ray,Chest,1020
+70450_46,CT Scan,CT,1205
+80053_47,Comprehensive Metabolic Panel,Comprehensive,2841
+93000_48,ECG,ECG,2212
+71046_49,Chest X-Ray,Chest,2463
+36415_50,Blood Collection,Blood,2989
+71046_51,Chest X-Ray,Chest,1783
+70450_52,CT Scan,CT,1477
+81001_53,Urinalysis,Urinalysis,63
+99213_54,Office Visit,Office,1182
+36415_55,Blood Collection,Blood,1661
+85025_56,Complete Blood Count,Complete,1051
+93000_57,ECG,ECG,1132
+36415_58,Blood Collection,Blood,2490
+80053_59,Comprehensive Metabolic Panel,Comprehensive,832
+36415_60,Blood Collection,Blood,1074
+81001_61,Urinalysis,Urinalysis,1547
+99213_62,Office Visit,Office,781
+99213_63,Office Visit,Office,1517
+80053_64,Comprehensive Metabolic Panel,Comprehensive,100
+85025_65,Complete Blood Count,Complete,2293
+71046_66,Chest X-Ray,Chest,2096
+36415_67,Blood Collection,Blood,2715
+71046_68,Chest X-Ray,Chest,1123
+93000_69,ECG,ECG,2365
+71046_70,Chest X-Ray,Chest,1124
+70450_71,CT Scan,CT,2880
+36415_72,Blood Collection,Blood,1636
+99213_73,Office Visit,Office,2162
+70450_74,CT Scan,CT,1584
+80053_75,Comprehensive Metabolic Panel,Comprehensive,231
+81001_76,Urinalysis,Urinalysis,799
+81001_77,Urinalysis,Urinalysis,275
+71046_78,Chest X-Ray,Chest,2810
+80053_79,Comprehensive Metabolic Panel,Comprehensive,2716
+80053_80,Comprehensive Metabolic Panel,Comprehensive,740
+85025_81,Complete Blood Count,Complete,1851
+36415_82,Blood Collection,Blood,312
+93000_83,ECG,ECG,542
+85025_84,Complete Blood Count,Complete,615
+71046_85,Chest X-Ray,Chest,901
+71046_86,Chest X-Ray,Chest,1384
+85025_87,Complete Blood Count,Complete,1201
+70450_88,CT Scan,CT,647
+93000_89,ECG,ECG,2682
+36415_90,Blood Collection,Blood,2185
+93000_91,ECG,ECG,2330
+85025_92,Complete Blood Count,Complete,1597
+80053_93,Comprehensive Metabolic Panel,Comprehensive,2894
+36415_94,Blood Collection,Blood,845
+99213_95,Office Visit,Office,2886
+80053_96,Comprehensive Metabolic Panel,Comprehensive,2856
+81001_97,Urinalysis,Urinalysis,2575
+71046_98,Chest X-Ray,Chest,2397
+80053_99,Comprehensive Metabolic Panel,Comprehensive,1533
+93000_100,ECG,ECG,430
+36415_101,Blood Collection,Blood,284
+36415_102,Blood Collection,Blood,229
+70450_103,CT Scan,CT,315
+71046_104,Chest X-Ray,Chest,2312
+70450_105,CT Scan,CT,271
+70450_106,CT Scan,CT,2020
+99213_107,Office Visit,Office,1133
+80053_108,Comprehensive Metabolic Panel,Comprehensive,506
+81001_109,Urinalysis,Urinalysis,1443
+85025_110,Complete Blood Count,Complete,68
+70450_111,CT Scan,CT,1399
+85025_112,Complete Blood Count,Complete,2215
+80053_113,Comprehensive Metabolic Panel,Comprehensive,781
+85025_114,Complete Blood Count,Complete,2733
+71046_115,Chest X-Ray,Chest,865
+36415_116,Blood Collection,Blood,825
+93000_117,ECG,ECG,2206
+85025_118,Complete Blood Count,Complete,827
+70450_119,CT Scan,CT,1290
+80053_120,Comprehensive Metabolic Panel,Comprehensive,2387
+36415_121,Blood Collection,Blood,661
+80053_122,Comprehensive Metabolic Panel,Comprehensive,1849
+36415_123,Blood Collection,Blood,267
+99213_124,Office Visit,Office,575
+93000_125,ECG,ECG,1367
+70450_126,CT Scan,CT,1112
+99213_127,Office Visit,Office,1380
+93000_128,ECG,ECG,1353
+71046_129,Chest X-Ray,Chest,487
+70450_130,CT Scan,CT,2104
+85025_131,Complete Blood Count,Complete,180
+85025_132,Complete Blood Count,Complete,119
+85025_133,Complete Blood Count,Complete,2221
+85025_134,Complete Blood Count,Complete,249
+93000_135,ECG,ECG,1707
+93000_136,ECG,ECG,1073
+36415_137,Blood Collection,Blood,1645
+36415_138,Blood Collection,Blood,332
+81001_139,Urinalysis,Urinalysis,2437
+80053_140,Comprehensive Metabolic Panel,Comprehensive,521
+70450_141,CT Scan,CT,2494
+99213_142,Office Visit,Office,1779
+80053_143,Comprehensive Metabolic Panel,Comprehensive,1735
+80053_144,Comprehensive Metabolic Panel,Comprehensive,1010
+80053_145,Comprehensive Metabolic Panel,Comprehensive,395
+80053_146,Comprehensive Metabolic Panel,Comprehensive,861
+81001_147,Urinalysis,Urinalysis,2020
+99213_148,Office Visit,Office,2985
+71046_149,Chest X-Ray,Chest,623
+81001_150,Urinalysis,Urinalysis,1333
+99213_151,Office Visit,Office,2570
+85025_152,Complete Blood Count,Complete,2960
+36415_153,Blood Collection,Blood,1018
+93000_154,ECG,ECG,1662
+71046_155,Chest X-Ray,Chest,1962
+99213_156,Office Visit,Office,161
+81001_157,Urinalysis,Urinalysis,1286
+70450_158,CT Scan,CT,2055
+36415_159,Blood Collection,Blood,1916
+80053_160,Comprehensive Metabolic Panel,Comprehensive,2694
+70450_161,CT Scan,CT,2675
+81001_162,Urinalysis,Urinalysis,2063
+81001_163,Urinalysis,Urinalysis,2263
+85025_164,Complete Blood Count,Complete,2888
+36415_165,Blood Collection,Blood,1243
+81001_166,Urinalysis,Urinalysis,1799
+36415_167,Blood Collection,Blood,562
+70450_168,CT Scan,CT,1575
+81001_169,Urinalysis,Urinalysis,1254
+70450_170,CT Scan,CT,729
+99213_171,Office Visit,Office,2096
+81001_172,Urinalysis,Urinalysis,326
+81001_173,Urinalysis,Urinalysis,1933
+93000_174,ECG,ECG,2891
+81001_175,Urinalysis,Urinalysis,2973
+71046_176,Chest X-Ray,Chest,2355
+93000_177,ECG,ECG,2971
+71046_178,Chest X-Ray,Chest,2818
+36415_179,Blood Collection,Blood,2656
+81001_180,Urinalysis,Urinalysis,1002
+85025_181,Complete Blood Count,Complete,335
+81001_182,Urinalysis,Urinalysis,2851
+81001_183,Urinalysis,Urinalysis,834
+70450_184,CT Scan,CT,158
+80053_185,Comprehensive Metabolic Panel,Comprehensive,1012
+80053_186,Comprehensive Metabolic Panel,Comprehensive,1035
+81001_187,Urinalysis,Urinalysis,65
+85025_188,Complete Blood Count,Complete,1403
+81001_189,Urinalysis,Urinalysis,1253
+93000_190,ECG,ECG,1289
+36415_191,Blood Collection,Blood,506
+81001_192,Urinalysis,Urinalysis,2512
+85025_193,Complete Blood Count,Complete,451
+70450_194,CT Scan,CT,437
+71046_195,Chest X-Ray,Chest,229
+93000_196,ECG,ECG,1015
+71046_197,Chest X-Ray,Chest,1907
+81001_198,Urinalysis,Urinalysis,1440
+99213_199,Office Visit,Office,424
+80053_200,Comprehensive Metabolic Panel,Comprehensive,2303
+36415_201,Blood Collection,Blood,2905
+85025_202,Complete Blood Count,Complete,605
+85025_203,Complete Blood Count,Complete,1263
+80053_204,Comprehensive Metabolic Panel,Comprehensive,902
+80053_205,Comprehensive Metabolic Panel,Comprehensive,2858
+70450_206,CT Scan,CT,443
+36415_207,Blood Collection,Blood,2637
+70450_208,CT Scan,CT,2779
+85025_209,Complete Blood Count,Complete,1748
+36415_210,Blood Collection,Blood,2602
+85025_211,Complete Blood Count,Complete,1426
+36415_212,Blood Collection,Blood,710
+70450_213,CT Scan,CT,1491
+85025_214,Complete Blood Count,Complete,1452
+70450_215,CT Scan,CT,1867
+99213_216,Office Visit,Office,1933
+71046_217,Chest X-Ray,Chest,2661
+85025_218,Complete Blood Count,Complete,1065
+99213_219,Office Visit,Office,1468
+36415_220,Blood Collection,Blood,2163
+81001_221,Urinalysis,Urinalysis,1040
+93000_222,ECG,ECG,2610
+80053_223,Comprehensive Metabolic Panel,Comprehensive,2663
+36415_224,Blood Collection,Blood,2557
+36415_225,Blood Collection,Blood,2278
+85025_226,Complete Blood Count,Complete,1496
+85025_227,Complete Blood Count,Complete,233
+80053_228,Comprehensive Metabolic Panel,Comprehensive,664
+93000_229,ECG,ECG,2089
+70450_230,CT Scan,CT,2231
+81001_231,Urinalysis,Urinalysis,1071
+81001_232,Urinalysis,Urinalysis,2248
+93000_233,ECG,ECG,1527
+85025_234,Complete Blood Count,Complete,458
+85025_235,Complete Blood Count,Complete,840
+93000_236,ECG,ECG,532
+99213_237,Office Visit,Office,1686
+80053_238,Comprehensive Metabolic Panel,Comprehensive,631
+99213_239,Office Visit,Office,616
+85025_240,Complete Blood Count,Complete,836
+36415_241,Blood Collection,Blood,1262
+99213_242,Office Visit,Office,1264
+93000_243,ECG,ECG,2580
+36415_244,Blood Collection,Blood,1595
+71046_245,Chest X-Ray,Chest,2260
+85025_246,Complete Blood Count,Complete,239
+81001_247,Urinalysis,Urinalysis,1380
+36415_248,Blood Collection,Blood,1662
+80053_249,Comprehensive Metabolic Panel,Comprehensive,1633
+81001_250,Urinalysis,Urinalysis,1382
