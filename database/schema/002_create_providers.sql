@@ -5,6 +5,6 @@ CREATE TABLE IF NOT EXISTS providers (
     npi_number VARCHAR(20) UNIQUE,
     city VARCHAR(100),
     state VARCHAR(50),
-    phone_number VARCHAR(20),
+    phone_number VARCHAR(30),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

@@ -23,6 +23,7 @@ for i in range(NUM_DIAGNOSIS_CODES):
     code, desc = random.choice(diagnosis_pool)
 
     diagnoses.append({
+        "diagnosis_code_id": i + 1,
         "icd10_code": f"{code}_{i+1}",
         "diagnosis_description": desc,
         "diagnosis_category": desc.split()[0],

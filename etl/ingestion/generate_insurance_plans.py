@@ -17,6 +17,7 @@ for i in range(1, NUM_INSURANCE_PLANS + 1):
     plan_type = random.choice(list(PLAN_TYPES.keys()))
 
     plans.append({
+        "insurance_plan_id": i,
         "plan_name": f"{plan_type} Plan {i}",
         "plan_type": plan_type,
         "coverage_percentage": PLAN_TYPES[plan_type],

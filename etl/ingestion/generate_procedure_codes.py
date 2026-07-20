@@ -21,6 +21,7 @@ for i in range(NUM_PROCEDURE_CODES):
     code, desc = random.choice(procedure_pool)
 
     procedures.append({
+        "procedure_code_id": i + 1,
         "cpt_code": f"{code}_{i+1}",
         "procedure_description": desc,
         "procedure_category": desc.split()[0],

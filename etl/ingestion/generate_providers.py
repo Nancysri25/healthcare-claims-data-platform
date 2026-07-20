@@ -23,6 +23,7 @@ for i in range(1, NUM_PROVIDERS + 1):
 
     providers.append(
         {
+            "provider_id": i,
             "provider_name": fake.company() + " Medical Center",
             "provider_type": random.choice(provider_types),
             "npi_number": str(fake.random_number(digits=10, fix_len=True)),

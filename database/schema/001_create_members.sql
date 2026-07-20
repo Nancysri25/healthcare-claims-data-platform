@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS members (
     last_name VARCHAR(100) NOT NULL,
     gender VARCHAR(10),
     date_of_birth DATE,
-    phone_number VARCHAR(20),
+    phone_number VARCHAR(30),
     email VARCHAR(255),
     address VARCHAR(255),
     city VARCHAR(100),

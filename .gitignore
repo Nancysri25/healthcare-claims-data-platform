@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project generated data
+data/raw/*.csv
+data/processed/*.csv
+
+# Pipeline logs
+output.txt

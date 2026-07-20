@@ -2,30 +2,46 @@ CREATE TABLE IF NOT EXISTS claims (
 
     claim_id SERIAL PRIMARY KEY,
 
-    claim_number VARCHAR(30) UNIQUE NOT NULL,
+    -- Claim identifiers
+    claim_number VARCHAR(50) UNIQUE NOT NULL,
 
+    -- Foreign keys
     member_id INT NOT NULL,
-
     provider_id INT NOT NULL,
+    diagnosis_code_id INT,
+    procedure_code_id INT,
 
-    diagnosis_code_id INT NOT NULL,
+    -- Claim details
+    claim_type VARCHAR(50),
+    place_of_service VARCHAR(100),
+    payer_name VARCHAR(100),
 
-    procedure_code_id INT NOT NULL,
+    -- Dates
+    service_date DATE,
+    admission_date DATE,
+    discharge_date DATE,
+    claim_date DATE,
+    processing_date DATE,
 
-    claim_date DATE NOT NULL,
+    -- Financial details
+    billed_amount NUMERIC(12,2),
+    approved_amount NUMERIC(12,2),
+    patient_responsibility NUMERIC(12,2),
 
-    service_date DATE NOT NULL,
+    -- Claim status
+    claim_status VARCHAR(50),
 
-    billed_amount DECIMAL(12,2),
+    -- Transformed fields
+    processing_days INT,
+    approval_percentage NUMERIC(5,2),
+    claim_month VARCHAR(7),
+    claim_year INT,
+    length_of_stay INT,
 
-    approved_amount DECIMAL(12,2),
-
-    patient_responsibility DECIMAL(12,2),
-
-    claim_status VARCHAR(30),
-
+    -- Audit columns
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
 
+    -- Foreign key constraints
     CONSTRAINT fk_member
         FOREIGN KEY(member_id)
         REFERENCES members(member_id),
@@ -34,11 +50,12 @@ CREATE TABLE IF NOT EXISTS claims (
         FOREIGN KEY(provider_id)
         REFERENCES providers(provider_id),
 
-    CONSTRAINT fk_diagnosis
+    CONSTRAINT fk_diagnosis_code
         FOREIGN KEY(diagnosis_code_id)
         REFERENCES diagnosis_codes(diagnosis_code_id),
 
-    CONSTRAINT fk_procedure
+    CONSTRAINT fk_procedure_code
         FOREIGN KEY(procedure_code_id)
         REFERENCES procedure_codes(procedure_code_id)
+
 );
